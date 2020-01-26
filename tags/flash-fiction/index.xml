@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flash fiction on PSP Writes</title>
+    <link>https://psp-writes.github.io/tags/flash-fiction/</link>
+    <description>Recent content in flash fiction on PSP Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2020 12:23:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://psp-writes.github.io/tags/flash-fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making of the Master</title>
+      <link>https://psp-writes.github.io/hello/</link>
+      <pubDate>Sun, 19 Jan 2020 12:23:20 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/hello/</guid>
+      <description>It all started during dinner that night. We were all eating silently when my mother started to cry. Just softly, you know. A tear here and a tear there. Father didn’t take any notice. He never did. He just kept eating his fava beans, his eyes fixed on the plate. My sister, Nicole, looked at her mother with fear and uncertainty. You don’t expect much from a seven year-old anyway. I averted my eyes to my plate.</description>
+    </item>
+    
+  </channel>
+</rss>

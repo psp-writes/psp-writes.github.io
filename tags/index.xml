@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PSP Writes</title>
+    <link>https://psp-writes.github.io/tags/</link>
+    <description>Recent content in Tags on PSP Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2020 18:58:36 +0530</lastBuildDate>
+    
+	<atom:link href="https://psp-writes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>come</title>
+      <link>https://psp-writes.github.io/tags/come/</link>
+      <pubDate>Sun, 19 Jan 2020 18:58:36 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/tags/come/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>okay</title>
+      <link>https://psp-writes.github.io/tags/okay/</link>
+      <pubDate>Sun, 19 Jan 2020 18:58:36 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/tags/okay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>current</title>
+      <link>https://psp-writes.github.io/tags/current/</link>
+      <pubDate>Sun, 19 Jan 2020 12:32:33 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>https://psp-writes.github.io/tags/introduction/</link>
+      <pubDate>Sun, 19 Jan 2020 12:32:33 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dark</title>
+      <link>https://psp-writes.github.io/tags/dark/</link>
+      <pubDate>Sun, 19 Jan 2020 12:23:20 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/tags/dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flash fiction</title>
+      <link>https://psp-writes.github.io/tags/flash-fiction/</link>
+      <pubDate>Sun, 19 Jan 2020 12:23:20 +0530</pubDate>
+      
+      <guid>https://psp-writes.github.io/tags/flash-fiction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
