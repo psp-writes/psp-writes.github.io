@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://psp-writes.github.io/tags/</loc>
+    <lastmod>2020-04-04T18:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psp-writes.github.io/tags/test/</loc>
+    <lastmod>2020-04-04T18:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psp-writes.github.io/test-post/</loc>
+    <lastmod>2020-04-04T18:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://psp-writes.github.io/post/</loc>
     <lastmod>2020-01-26T19:16:08+05:30</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>https://psp-writes.github.io/tags/hi/</loc>
-    <lastmod>2020-01-22T18:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://psp-writes.github.io/tags/</loc>
     <lastmod>2020-01-22T18:30:00+00:00</lastmod>
   </url>
   
